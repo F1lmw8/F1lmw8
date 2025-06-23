@@ -2,14 +2,14 @@
   <h1>
     👨‍💻💻⚡ Caffeine × Code = Control ☕⚡
   </h1>
-  <sub>
-    <i style="color:#ff0066;">Breaking systems. Building futures.</i>
-  </sub>
+  <h2 style="color:#ff0066; font-size: 24px;">
+    <i>Breaking systems. Building futures.</i>
+  </h2>
 </div>
+
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 72px; color: #ff0000; text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0066;">
   👾⚡4 0 4 ⚡👾
 </h1>
-
 ---
 
 # 💻 Tech Stack:
