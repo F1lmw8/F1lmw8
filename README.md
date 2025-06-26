@@ -10,7 +10,7 @@
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 72px; color: #ff0000; text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0066;">
   👾⚡4 0 4 ⚡👾
 </h1>
----
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
